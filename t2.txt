@@ -1,1 +1,2 @@
 second file to check git
+check merge
