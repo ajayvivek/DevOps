@@ -4,11 +4,11 @@ function()
    initial copy
 }
 
-feature1()
+feature2()
 
 {
 
-  security check
+  new feature which was not in feaure1 branch
 
 }
 
