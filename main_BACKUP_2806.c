@@ -8,14 +8,11 @@ security()
 
 {
 
-
+<<<<<<< HEAD
   Security feature added
-}
-
-feature2()
-{
+=======
   new feature which was not in feature1 branch
-
+>>>>>>> feature2
 
 }
 
