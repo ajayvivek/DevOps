@@ -8,7 +8,7 @@ feature2()
 
 {
 
-  new feature which was not in feaure1 branch
+  new feature which was not in feature1 branch
 
 }
 
